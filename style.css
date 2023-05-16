@@ -1,0 +1,63 @@
+h1{
+    font-size: 40px;
+    font-family: 'Work Sans', sans-serif;
+}
+.name{
+    color: green;
+}
+.seo{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+
+}
+.seo img{
+    width: 100%;
+}
+.fol{
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 10px solid;
+    padding: 5px;
+    color: white;
+}
+.banner{
+    background-image: url("images/bgc.png");
+    border: 1px solid white;
+}
+section{
+    height: 500px;
+}
+body{
+    margin-left: 0;
+}
+.dream{
+    background-image: url("images/bgc.png");
+    border: 1px solid white;
+    background-repeat: no-repeat;
+}
+.seo-again{
+    box-shadow: 10px 10px 40px grey;
+    width: 35%;
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    height: 50%;
+}
+.experiences{
+    background-image: url("images/bgc.png");
+    background-repeat: no-repeat;
+}
+#full-stack{
+    border-left: 10px solid rgb(214, 136, 195);
+   
+}
+#baby-stack{
+    border-left: 10px solid rgb(0, 179, 255);
+   
+}
+footer p{
+
+    text-align: center;
+}
